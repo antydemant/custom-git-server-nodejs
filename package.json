@@ -1,0 +1,22 @@
+{
+  "name": "custom-git-server-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antydemant/custom-git-server-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antydemant/custom-git-server-nodejs/issues"
+  },
+  "homepage": "https://github.com/antydemant/custom-git-server-nodejs#readme",
+  "dependencies": {
+    "node-git-server": "^0.6.0"
+  }
+}
