@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/antydemant/custom-git-server-nodejs#readme",
   "dependencies": {
-    "node-git-server": "^0.6.0"
+    "node-git-server": "^0.6.1"
   }
 }
